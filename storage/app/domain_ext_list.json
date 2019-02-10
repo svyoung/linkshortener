@@ -1,0 +1,2759 @@
+[
+  {
+    "ext": ".abbott"
+  },
+  {
+    "ext": ".abogado"
+  },
+  {
+    "ext": ".ac"
+  },
+  {
+    "ext": ".academy"
+  },
+  {
+    "ext": ".accountant"
+  },
+  {
+    "ext": ".accountants"
+  },
+  {
+    "ext": ".active"
+  },
+  {
+    "ext": ".actor"
+  },
+  {
+    "ext": ".ad"
+  },
+  {
+    "ext": ".ads"
+  },
+  {
+    "ext": ".adult"
+  },
+  {
+    "ext": ".ae"
+  },
+  {
+    "ext": ".aero"
+  },
+  {
+    "ext": ".af"
+  },
+  {
+    "ext": ".afl"
+  },
+  {
+    "ext": ".ag"
+  },
+  {
+    "ext": ".agency"
+  },
+  {
+    "ext": ".ai"
+  },
+  {
+    "ext": ".airforce"
+  },
+  {
+    "ext": ".al"
+  },
+  {
+    "ext": ".allfinanz"
+  },
+  {
+    "ext": ".alsace"
+  },
+  {
+    "ext": ".am"
+  },
+  {
+    "ext": ".amsterdam"
+  },
+  {
+    "ext": ".an"
+  },
+  {
+    "ext": ".android"
+  },
+  {
+    "ext": ".ao"
+  },
+  {
+    "ext": ".apartments"
+  },
+  {
+    "ext": ".aq"
+  },
+  {
+    "ext": ".aquarelle"
+  },
+  {
+    "ext": ".ar"
+  },
+  {
+    "ext": ".archi"
+  },
+  {
+    "ext": ".army"
+  },
+  {
+    "ext": ".arpa"
+  },
+  {
+    "ext": ".as"
+  },
+  {
+    "ext": ".asia"
+  },
+  {
+    "ext": ".associates"
+  },
+  {
+    "ext": ".at"
+  },
+  {
+    "ext": ".attorney"
+  },
+  {
+    "ext": ".au"
+  },
+  {
+    "ext": ".auction"
+  },
+  {
+    "ext": ".audio"
+  },
+  {
+    "ext": ".autos"
+  },
+  {
+    "ext": ".aw"
+  },
+  {
+    "ext": ".ax"
+  },
+  {
+    "ext": ".axa"
+  },
+  {
+    "ext": ".az"
+  },
+  {
+    "ext": ".ba"
+  },
+  {
+    "ext": ".band"
+  },
+  {
+    "ext": ".bank"
+  },
+  {
+    "ext": ".bar"
+  },
+  {
+    "ext": ".barclaycard"
+  },
+  {
+    "ext": ".barclays"
+  },
+  {
+    "ext": ".bargains"
+  },
+  {
+    "ext": ".bauhaus"
+  },
+  {
+    "ext": ".bayern"
+  },
+  {
+    "ext": ".bb"
+  },
+  {
+    "ext": ".bbc"
+  },
+  {
+    "ext": ".bd"
+  },
+  {
+    "ext": ".be"
+  },
+  {
+    "ext": ".beer"
+  },
+  {
+    "ext": ".berlin"
+  },
+  {
+    "ext": ".best"
+  },
+  {
+    "ext": ".bf"
+  },
+  {
+    "ext": ".bg"
+  },
+  {
+    "ext": ".bh"
+  },
+  {
+    "ext": ".bi"
+  },
+  {
+    "ext": ".bid"
+  },
+  {
+    "ext": ".bike"
+  },
+  {
+    "ext": ".bingo"
+  },
+  {
+    "ext": ".bio"
+  },
+  {
+    "ext": ".biz"
+  },
+  {
+    "ext": ".bj"
+  },
+  {
+    "ext": ".bl"
+  },
+  {
+    "ext": ".black"
+  },
+  {
+    "ext": ".blackfriday"
+  },
+  {
+    "ext": ".bloomberg"
+  },
+  {
+    "ext": ".blue"
+  },
+  {
+    "ext": ".bm"
+  },
+  {
+    "ext": ".bmw"
+  },
+  {
+    "ext": ".bn"
+  },
+  {
+    "ext": ".bnpparibas"
+  },
+  {
+    "ext": ".bo"
+  },
+  {
+    "ext": ".boats"
+  },
+  {
+    "ext": ".bond"
+  },
+  {
+    "ext": ".boo"
+  },
+  {
+    "ext": ".boutique"
+  },
+  {
+    "ext": ".bq"
+  },
+  {
+    "ext": ".br"
+  },
+  {
+    "ext": ".brussels"
+  },
+  {
+    "ext": ".bs"
+  },
+  {
+    "ext": ".bt"
+  },
+  {
+    "ext": ".budapest"
+  },
+  {
+    "ext": ".build"
+  },
+  {
+    "ext": ".builders"
+  },
+  {
+    "ext": ".business"
+  },
+  {
+    "ext": ".buzz"
+  },
+  {
+    "ext": ".bv"
+  },
+  {
+    "ext": ".bw"
+  },
+  {
+    "ext": ".by"
+  },
+  {
+    "ext": ".bz"
+  },
+  {
+    "ext": ".bzh"
+  },
+  {
+    "ext": ".ca"
+  },
+  {
+    "ext": ".cab"
+  },
+  {
+    "ext": ".cafe"
+  },
+  {
+    "ext": ".cal"
+  },
+  {
+    "ext": ".camera"
+  },
+  {
+    "ext": ".camp"
+  },
+  {
+    "ext": ".cancerresearch"
+  },
+  {
+    "ext": ".canon"
+  },
+  {
+    "ext": ".capetown"
+  },
+  {
+    "ext": ".capital"
+  },
+  {
+    "ext": ".caravan"
+  },
+  {
+    "ext": ".cards"
+  },
+  {
+    "ext": ".care"
+  },
+  {
+    "ext": ".career"
+  },
+  {
+    "ext": ".careers"
+  },
+  {
+    "ext": ".cartier"
+  },
+  {
+    "ext": ".casa"
+  },
+  {
+    "ext": ".cash"
+  },
+  {
+    "ext": ".casino"
+  },
+  {
+    "ext": ".cat"
+  },
+  {
+    "ext": ".catering"
+  },
+  {
+    "ext": ".cbn"
+  },
+  {
+    "ext": ".cc"
+  },
+  {
+    "ext": ".cd"
+  },
+  {
+    "ext": ".center"
+  },
+  {
+    "ext": ".ceo"
+  },
+  {
+    "ext": ".cern"
+  },
+  {
+    "ext": ".cf"
+  },
+  {
+    "ext": ".cfd"
+  },
+  {
+    "ext": ".cg"
+  },
+  {
+    "ext": ".ch"
+  },
+  {
+    "ext": ".channel"
+  },
+  {
+    "ext": ".chat"
+  },
+  {
+    "ext": ".cheap"
+  },
+  {
+    "ext": ".chloe"
+  },
+  {
+    "ext": ".christmas"
+  },
+  {
+    "ext": ".chrome"
+  },
+  {
+    "ext": ".church"
+  },
+  {
+    "ext": ".ci"
+  },
+  {
+    "ext": ".citic"
+  },
+  {
+    "ext": ".city"
+  },
+  {
+    "ext": ".ck"
+  },
+  {
+    "ext": ".cl"
+  },
+  {
+    "ext": ".claims"
+  },
+  {
+    "ext": ".cleaning"
+  },
+  {
+    "ext": ".click"
+  },
+  {
+    "ext": ".clinic"
+  },
+  {
+    "ext": ".clothing"
+  },
+  {
+    "ext": ".club"
+  },
+  {
+    "ext": ".cm"
+  },
+  {
+    "ext": ".cn"
+  },
+  {
+    "ext": ".co"
+  },
+  {
+    "ext": ".coach"
+  },
+  {
+    "ext": ".codes"
+  },
+  {
+    "ext": ".coffee"
+  },
+  {
+    "ext": ".college"
+  },
+  {
+    "ext": ".cologne"
+  },
+  {
+    "ext": ".com"
+  },
+  {
+    "ext": ".community"
+  },
+  {
+    "ext": ".company"
+  },
+  {
+    "ext": ".computer"
+  },
+  {
+    "ext": ".condos"
+  },
+  {
+    "ext": ".construction"
+  },
+  {
+    "ext": ".consulting"
+  },
+  {
+    "ext": ".contractors"
+  },
+  {
+    "ext": ".cooking"
+  },
+  {
+    "ext": ".cool"
+  },
+  {
+    "ext": ".coop"
+  },
+  {
+    "ext": ".country"
+  },
+  {
+    "ext": ".courses"
+  },
+  {
+    "ext": ".cr"
+  },
+  {
+    "ext": ".credit"
+  },
+  {
+    "ext": ".creditcard"
+  },
+  {
+    "ext": ".cricket"
+  },
+  {
+    "ext": ".crs"
+  },
+  {
+    "ext": ".cruises"
+  },
+  {
+    "ext": ".cu"
+  },
+  {
+    "ext": ".cuisinella"
+  },
+  {
+    "ext": ".cv"
+  },
+  {
+    "ext": ".cw"
+  },
+  {
+    "ext": ".cx"
+  },
+  {
+    "ext": ".cy"
+  },
+  {
+    "ext": ".cymru"
+  },
+  {
+    "ext": ".cyou"
+  },
+  {
+    "ext": ".cz"
+  },
+  {
+    "ext": ".dabur"
+  },
+  {
+    "ext": ".dad"
+  },
+  {
+    "ext": ".dance"
+  },
+  {
+    "ext": ".date"
+  },
+  {
+    "ext": ".dating"
+  },
+  {
+    "ext": ".datsun"
+  },
+  {
+    "ext": ".day"
+  },
+  {
+    "ext": ".dclk"
+  },
+  {
+    "ext": ".de"
+  },
+  {
+    "ext": ".deals"
+  },
+  {
+    "ext": ".degree"
+  },
+  {
+    "ext": ".delivery"
+  },
+  {
+    "ext": ".democrat"
+  },
+  {
+    "ext": ".dental"
+  },
+  {
+    "ext": ".dentist"
+  },
+  {
+    "ext": ".desi"
+  },
+  {
+    "ext": ".design"
+  },
+  {
+    "ext": ".dev"
+  },
+  {
+    "ext": ".diamonds"
+  },
+  {
+    "ext": ".diet"
+  },
+  {
+    "ext": ".digital"
+  },
+  {
+    "ext": ".direct"
+  },
+  {
+    "ext": ".directory"
+  },
+  {
+    "ext": ".discount"
+  },
+  {
+    "ext": ".dj"
+  },
+  {
+    "ext": ".dk"
+  },
+  {
+    "ext": ".dm"
+  },
+  {
+    "ext": ".dnp"
+  },
+  {
+    "ext": ".do"
+  },
+  {
+    "ext": ".docs"
+  },
+  {
+    "ext": ".doha"
+  },
+  {
+    "ext": ".domains"
+  },
+  {
+    "ext": ".doosan"
+  },
+  {
+    "ext": ".download"
+  },
+  {
+    "ext": ".durban"
+  },
+  {
+    "ext": ".dvag"
+  },
+  {
+    "ext": ".dz"
+  },
+  {
+    "ext": ".eat"
+  },
+  {
+    "ext": ".ec"
+  },
+  {
+    "ext": ".edu"
+  },
+  {
+    "ext": ".education"
+  },
+  {
+    "ext": ".ee"
+  },
+  {
+    "ext": ".eg"
+  },
+  {
+    "ext": ".eh"
+  },
+  {
+    "ext": ".email"
+  },
+  {
+    "ext": ".emerck"
+  },
+  {
+    "ext": ".energy"
+  },
+  {
+    "ext": ".engineer"
+  },
+  {
+    "ext": ".engineering"
+  },
+  {
+    "ext": ".enterprises"
+  },
+  {
+    "ext": ".epson"
+  },
+  {
+    "ext": ".equipment"
+  },
+  {
+    "ext": ".er"
+  },
+  {
+    "ext": ".erni"
+  },
+  {
+    "ext": ".es"
+  },
+  {
+    "ext": ".esq"
+  },
+  {
+    "ext": ".estate"
+  },
+  {
+    "ext": ".et"
+  },
+  {
+    "ext": ".eu"
+  },
+  {
+    "ext": ".eurovision"
+  },
+  {
+    "ext": ".eus"
+  },
+  {
+    "ext": ".events"
+  },
+  {
+    "ext": ".everbank"
+  },
+  {
+    "ext": ".exchange"
+  },
+  {
+    "ext": ".expert"
+  },
+  {
+    "ext": ".exposed"
+  },
+  {
+    "ext": ".express"
+  },
+  {
+    "ext": ".fail"
+  },
+  {
+    "ext": ".faith"
+  },
+  {
+    "ext": ".fan"
+  },
+  {
+    "ext": ".fans"
+  },
+  {
+    "ext": ".farm"
+  },
+  {
+    "ext": ".fashion"
+  },
+  {
+    "ext": ".feedback"
+  },
+  {
+    "ext": ".fi"
+  },
+  {
+    "ext": ".film"
+  },
+  {
+    "ext": ".finance"
+  },
+  {
+    "ext": ".financial"
+  },
+  {
+    "ext": ".firmdale"
+  },
+  {
+    "ext": ".fish"
+  },
+  {
+    "ext": ".fishing"
+  },
+  {
+    "ext": ".fit"
+  },
+  {
+    "ext": ".fitness"
+  },
+  {
+    "ext": ".fj"
+  },
+  {
+    "ext": ".fk"
+  },
+  {
+    "ext": ".flights"
+  },
+  {
+    "ext": ".florist"
+  },
+  {
+    "ext": ".flowers"
+  },
+  {
+    "ext": ".flsmidth"
+  },
+  {
+    "ext": ".fly"
+  },
+  {
+    "ext": ".fm"
+  },
+  {
+    "ext": ".fo"
+  },
+  {
+    "ext": ".foo"
+  },
+  {
+    "ext": ".football"
+  },
+  {
+    "ext": ".forex"
+  },
+  {
+    "ext": ".forsale"
+  },
+  {
+    "ext": ".foundation"
+  },
+  {
+    "ext": ".fr"
+  },
+  {
+    "ext": ".frl"
+  },
+  {
+    "ext": ".frogans"
+  },
+  {
+    "ext": ".fund"
+  },
+  {
+    "ext": ".furniture"
+  },
+  {
+    "ext": ".futbol"
+  },
+  {
+    "ext": ".ga"
+  },
+  {
+    "ext": ".gal"
+  },
+  {
+    "ext": ".gallery"
+  },
+  {
+    "ext": ".garden"
+  },
+  {
+    "ext": ".gb"
+  },
+  {
+    "ext": ".gbiz"
+  },
+  {
+    "ext": ".gd"
+  },
+  {
+    "ext": ".gdn"
+  },
+  {
+    "ext": ".ge"
+  },
+  {
+    "ext": ".gent"
+  },
+  {
+    "ext": ".gf"
+  },
+  {
+    "ext": ".gg"
+  },
+  {
+    "ext": ".ggee"
+  },
+  {
+    "ext": ".gh"
+  },
+  {
+    "ext": ".gi"
+  },
+  {
+    "ext": ".gift"
+  },
+  {
+    "ext": ".gifts"
+  },
+  {
+    "ext": ".gives"
+  },
+  {
+    "ext": ".gl"
+  },
+  {
+    "ext": ".glass"
+  },
+  {
+    "ext": ".gle"
+  },
+  {
+    "ext": ".global"
+  },
+  {
+    "ext": ".globo"
+  },
+  {
+    "ext": ".gm"
+  },
+  {
+    "ext": ".gmail"
+  },
+  {
+    "ext": ".gmo"
+  },
+  {
+    "ext": ".gmx"
+  },
+  {
+    "ext": ".gn"
+  },
+  {
+    "ext": ".gold"
+  },
+  {
+    "ext": ".goldpoint"
+  },
+  {
+    "ext": ".golf"
+  },
+  {
+    "ext": ".goo"
+  },
+  {
+    "ext": ".goog"
+  },
+  {
+    "ext": ".google"
+  },
+  {
+    "ext": ".gop"
+  },
+  {
+    "ext": ".gov"
+  },
+  {
+    "ext": ".gp"
+  },
+  {
+    "ext": ".gq"
+  },
+  {
+    "ext": ".gr"
+  },
+  {
+    "ext": ".graphics"
+  },
+  {
+    "ext": ".gratis"
+  },
+  {
+    "ext": ".green"
+  },
+  {
+    "ext": ".gripe"
+  },
+  {
+    "ext": ".gs"
+  },
+  {
+    "ext": ".gt"
+  },
+  {
+    "ext": ".gu"
+  },
+  {
+    "ext": ".guge"
+  },
+  {
+    "ext": ".guide"
+  },
+  {
+    "ext": ".guitars"
+  },
+  {
+    "ext": ".guru"
+  },
+  {
+    "ext": ".gw"
+  },
+  {
+    "ext": ".gy"
+  },
+  {
+    "ext": ".hamburg"
+  },
+  {
+    "ext": ".hangout"
+  },
+  {
+    "ext": ".haus"
+  },
+  {
+    "ext": ".healthcare"
+  },
+  {
+    "ext": ".help"
+  },
+  {
+    "ext": ".here"
+  },
+  {
+    "ext": ".hermes"
+  },
+  {
+    "ext": ".hiphop"
+  },
+  {
+    "ext": ".hiv"
+  },
+  {
+    "ext": ".hk"
+  },
+  {
+    "ext": ".hm"
+  },
+  {
+    "ext": ".hn"
+  },
+  {
+    "ext": ".holdings"
+  },
+  {
+    "ext": ".holiday"
+  },
+  {
+    "ext": ".homes"
+  },
+  {
+    "ext": ".horse"
+  },
+  {
+    "ext": ".host"
+  },
+  {
+    "ext": ".hosting"
+  },
+  {
+    "ext": ".house"
+  },
+  {
+    "ext": ".how"
+  },
+  {
+    "ext": ".hr"
+  },
+  {
+    "ext": ".ht"
+  },
+  {
+    "ext": ".hu"
+  },
+  {
+    "ext": ".ibm"
+  },
+  {
+    "ext": ".id"
+  },
+  {
+    "ext": ".ie"
+  },
+  {
+    "ext": ".ifm"
+  },
+  {
+    "ext": ".il"
+  },
+  {
+    "ext": ".im"
+  },
+  {
+    "ext": ".immo"
+  },
+  {
+    "ext": ".immobilien"
+  },
+  {
+    "ext": ".in"
+  },
+  {
+    "ext": ".industries"
+  },
+  {
+    "ext": ".infiniti"
+  },
+  {
+    "ext": ".info"
+  },
+  {
+    "ext": ".ing"
+  },
+  {
+    "ext": ".ink"
+  },
+  {
+    "ext": ".institute"
+  },
+  {
+    "ext": ".insure"
+  },
+  {
+    "ext": ".int"
+  },
+  {
+    "ext": ".international"
+  },
+  {
+    "ext": ".investments"
+  },
+  {
+    "ext": ".io"
+  },
+  {
+    "ext": ".iq"
+  },
+  {
+    "ext": ".ir"
+  },
+  {
+    "ext": ".irish"
+  },
+  {
+    "ext": ".is"
+  },
+  {
+    "ext": ".it"
+  },
+  {
+    "ext": ".iwc"
+  },
+  {
+    "ext": ".java"
+  },
+  {
+    "ext": ".jcb"
+  },
+  {
+    "ext": ".je"
+  },
+  {
+    "ext": ".jetzt"
+  },
+  {
+    "ext": ".jm"
+  },
+  {
+    "ext": ".jo"
+  },
+  {
+    "ext": ".jobs"
+  },
+  {
+    "ext": ".joburg"
+  },
+  {
+    "ext": ".jp"
+  },
+  {
+    "ext": ".juegos"
+  },
+  {
+    "ext": ".kaufen"
+  },
+  {
+    "ext": ".kddi"
+  },
+  {
+    "ext": ".ke"
+  },
+  {
+    "ext": ".kg"
+  },
+  {
+    "ext": ".kh"
+  },
+  {
+    "ext": ".ki"
+  },
+  {
+    "ext": ".kim"
+  },
+  {
+    "ext": ".kitchen"
+  },
+  {
+    "ext": ".kiwi"
+  },
+  {
+    "ext": ".km"
+  },
+  {
+    "ext": ".kn"
+  },
+  {
+    "ext": ".koeln"
+  },
+  {
+    "ext": ".komatsu"
+  },
+  {
+    "ext": ".kp"
+  },
+  {
+    "ext": ".kr"
+  },
+  {
+    "ext": ".krd"
+  },
+  {
+    "ext": ".kred"
+  },
+  {
+    "ext": ".kw"
+  },
+  {
+    "ext": ".ky"
+  },
+  {
+    "ext": ".kyoto"
+  },
+  {
+    "ext": ".kz"
+  },
+  {
+    "ext": ".la"
+  },
+  {
+    "ext": ".lacaixa"
+  },
+  {
+    "ext": ".land"
+  },
+  {
+    "ext": ".lat"
+  },
+  {
+    "ext": ".latrobe"
+  },
+  {
+    "ext": ".lawyer"
+  },
+  {
+    "ext": ".lb"
+  },
+  {
+    "ext": ".lc"
+  },
+  {
+    "ext": ".lds"
+  },
+  {
+    "ext": ".lease"
+  },
+  {
+    "ext": ".leclerc"
+  },
+  {
+    "ext": ".legal"
+  },
+  {
+    "ext": ".lgbt"
+  },
+  {
+    "ext": ".li"
+  },
+  {
+    "ext": ".lidl"
+  },
+  {
+    "ext": ".life"
+  },
+  {
+    "ext": ".lighting"
+  },
+  {
+    "ext": ".limited"
+  },
+  {
+    "ext": ".limo"
+  },
+  {
+    "ext": ".link"
+  },
+  {
+    "ext": ".lk"
+  },
+  {
+    "ext": ".loan"
+  },
+  {
+    "ext": ".loans"
+  },
+  {
+    "ext": ".london"
+  },
+  {
+    "ext": ".lotte"
+  },
+  {
+    "ext": ".lotto"
+  },
+  {
+    "ext": ".love"
+  },
+  {
+    "ext": ".lr"
+  },
+  {
+    "ext": ".ls"
+  },
+  {
+    "ext": ".lt"
+  },
+  {
+    "ext": ".ltda"
+  },
+  {
+    "ext": ".lu"
+  },
+  {
+    "ext": ".luxe"
+  },
+  {
+    "ext": ".luxury"
+  },
+  {
+    "ext": ".lv"
+  },
+  {
+    "ext": ".ly"
+  },
+  {
+    "ext": ".ma"
+  },
+  {
+    "ext": ".madrid"
+  },
+  {
+    "ext": ".maif"
+  },
+  {
+    "ext": ".maison"
+  },
+  {
+    "ext": ".management"
+  },
+  {
+    "ext": ".mango"
+  },
+  {
+    "ext": ".market"
+  },
+  {
+    "ext": ".marketing"
+  },
+  {
+    "ext": ".markets"
+  },
+  {
+    "ext": ".marriott"
+  },
+  {
+    "ext": ".mc"
+  },
+  {
+    "ext": ".md"
+  },
+  {
+    "ext": ".me"
+  },
+  {
+    "ext": ".media"
+  },
+  {
+    "ext": ".meet"
+  },
+  {
+    "ext": ".melbourne"
+  },
+  {
+    "ext": ".meme"
+  },
+  {
+    "ext": ".memorial"
+  },
+  {
+    "ext": ".menu"
+  },
+  {
+    "ext": ".mf"
+  },
+  {
+    "ext": ".mg"
+  },
+  {
+    "ext": ".mh"
+  },
+  {
+    "ext": ".miami"
+  },
+  {
+    "ext": ".mil"
+  },
+  {
+    "ext": ".mini"
+  },
+  {
+    "ext": ".mk"
+  },
+  {
+    "ext": ".ml"
+  },
+  {
+    "ext": ".mm"
+  },
+  {
+    "ext": ".mma"
+  },
+  {
+    "ext": ".mn"
+  },
+  {
+    "ext": ".mo"
+  },
+  {
+    "ext": ".mobi"
+  },
+  {
+    "ext": ".moda"
+  },
+  {
+    "ext": ".moe"
+  },
+  {
+    "ext": ".monash"
+  },
+  {
+    "ext": ".money"
+  },
+  {
+    "ext": ".mormon"
+  },
+  {
+    "ext": ".mortgage"
+  },
+  {
+    "ext": ".moscow"
+  },
+  {
+    "ext": ".motorcycles"
+  },
+  {
+    "ext": ".mov"
+  },
+  {
+    "ext": ".movie"
+  },
+  {
+    "ext": ".mp"
+  },
+  {
+    "ext": ".mq"
+  },
+  {
+    "ext": ".mr"
+  },
+  {
+    "ext": ".ms"
+  },
+  {
+    "ext": ".mt"
+  },
+  {
+    "ext": ".mtn"
+  },
+  {
+    "ext": ".mtpc"
+  },
+  {
+    "ext": ".mu"
+  },
+  {
+    "ext": ".museum"
+  },
+  {
+    "ext": ".mv"
+  },
+  {
+    "ext": ".mw"
+  },
+  {
+    "ext": ".mx"
+  },
+  {
+    "ext": ".my"
+  },
+  {
+    "ext": ".mz"
+  },
+  {
+    "ext": ".na"
+  },
+  {
+    "ext": ".nagoya"
+  },
+  {
+    "ext": ".name"
+  },
+  {
+    "ext": ".navy"
+  },
+  {
+    "ext": ".nc"
+  },
+  {
+    "ext": ".ne"
+  },
+  {
+    "ext": ".net"
+  },
+  {
+    "ext": ".network"
+  },
+  {
+    "ext": ".neustar"
+  },
+  {
+    "ext": ".new"
+  },
+  {
+    "ext": ".news"
+  },
+  {
+    "ext": ".nexus"
+  },
+  {
+    "ext": ".nf"
+  },
+  {
+    "ext": ".ng"
+  },
+  {
+    "ext": ".ngo"
+  },
+  {
+    "ext": ".nhk"
+  },
+  {
+    "ext": ".ni"
+  },
+  {
+    "ext": ".nico"
+  },
+  {
+    "ext": ".ninja"
+  },
+  {
+    "ext": ".nissan"
+  },
+  {
+    "ext": ".nl"
+  },
+  {
+    "ext": ".no"
+  },
+  {
+    "ext": ".np"
+  },
+  {
+    "ext": ".nr"
+  },
+  {
+    "ext": ".nra"
+  },
+  {
+    "ext": ".nrw"
+  },
+  {
+    "ext": ".ntt"
+  },
+  {
+    "ext": ".nu"
+  },
+  {
+    "ext": ".nyc"
+  },
+  {
+    "ext": ".nz"
+  },
+  {
+    "ext": ".okinawa"
+  },
+  {
+    "ext": ".om"
+  },
+  {
+    "ext": ".one"
+  },
+  {
+    "ext": ".ong"
+  },
+  {
+    "ext": ".onl"
+  },
+  {
+    "ext": ".online"
+  },
+  {
+    "ext": ".ooo"
+  },
+  {
+    "ext": ".org"
+  },
+  {
+    "ext": ".organic"
+  },
+  {
+    "ext": ".osaka"
+  },
+  {
+    "ext": ".otsuka"
+  },
+  {
+    "ext": ".ovh"
+  },
+  {
+    "ext": ".pa"
+  },
+  {
+    "ext": ".page"
+  },
+  {
+    "ext": ".panerai"
+  },
+  {
+    "ext": ".paris"
+  },
+  {
+    "ext": ".partners"
+  },
+  {
+    "ext": ".parts"
+  },
+  {
+    "ext": ".party"
+  },
+  {
+    "ext": ".pe"
+  },
+  {
+    "ext": ".pf"
+  },
+  {
+    "ext": ".pg"
+  },
+  {
+    "ext": ".ph"
+  },
+  {
+    "ext": ".pharmacy"
+  },
+  {
+    "ext": ".photo"
+  },
+  {
+    "ext": ".photography"
+  },
+  {
+    "ext": ".photos"
+  },
+  {
+    "ext": ".physio"
+  },
+  {
+    "ext": ".piaget"
+  },
+  {
+    "ext": ".pics"
+  },
+  {
+    "ext": ".pictet"
+  },
+  {
+    "ext": ".pictures"
+  },
+  {
+    "ext": ".pink"
+  },
+  {
+    "ext": ".pizza"
+  },
+  {
+    "ext": ".pk"
+  },
+  {
+    "ext": ".pl"
+  },
+  {
+    "ext": ".place"
+  },
+  {
+    "ext": ".plumbing"
+  },
+  {
+    "ext": ".plus"
+  },
+  {
+    "ext": ".pm"
+  },
+  {
+    "ext": ".pn"
+  },
+  {
+    "ext": ".pohl"
+  },
+  {
+    "ext": ".poker"
+  },
+  {
+    "ext": ".porn"
+  },
+  {
+    "ext": ".post"
+  },
+  {
+    "ext": ".pr"
+  },
+  {
+    "ext": ".praxi"
+  },
+  {
+    "ext": ".press"
+  },
+  {
+    "ext": ".pro"
+  },
+  {
+    "ext": ".prod"
+  },
+  {
+    "ext": ".productions"
+  },
+  {
+    "ext": ".prof"
+  },
+  {
+    "ext": ".properties"
+  },
+  {
+    "ext": ".property"
+  },
+  {
+    "ext": ".ps"
+  },
+  {
+    "ext": ".pt"
+  },
+  {
+    "ext": ".pub"
+  },
+  {
+    "ext": ".pw"
+  },
+  {
+    "ext": ".py"
+  },
+  {
+    "ext": ".qa"
+  },
+  {
+    "ext": ".qpon"
+  },
+  {
+    "ext": ".quebec"
+  },
+  {
+    "ext": ".racing"
+  },
+  {
+    "ext": ".re"
+  },
+  {
+    "ext": ".realtor"
+  },
+  {
+    "ext": ".recipes"
+  },
+  {
+    "ext": ".red"
+  },
+  {
+    "ext": ".redstone"
+  },
+  {
+    "ext": ".rehab"
+  },
+  {
+    "ext": ".reise"
+  },
+  {
+    "ext": ".reisen"
+  },
+  {
+    "ext": ".reit"
+  },
+  {
+    "ext": ".ren"
+  },
+  {
+    "ext": ".rentals"
+  },
+  {
+    "ext": ".repair"
+  },
+  {
+    "ext": ".report"
+  },
+  {
+    "ext": ".republican"
+  },
+  {
+    "ext": ".rest"
+  },
+  {
+    "ext": ".restaurant"
+  },
+  {
+    "ext": ".review"
+  },
+  {
+    "ext": ".reviews"
+  },
+  {
+    "ext": ".rich"
+  },
+  {
+    "ext": ".rio"
+  },
+  {
+    "ext": ".rip"
+  },
+  {
+    "ext": ".ro"
+  },
+  {
+    "ext": ".rocks"
+  },
+  {
+    "ext": ".rodeo"
+  },
+  {
+    "ext": ".rs"
+  },
+  {
+    "ext": ".rsvp"
+  },
+  {
+    "ext": ".ru"
+  },
+  {
+    "ext": ".ruhr"
+  },
+  {
+    "ext": ".rw"
+  },
+  {
+    "ext": ".ryukyu"
+  },
+  {
+    "ext": ".sa"
+  },
+  {
+    "ext": ".saarland"
+  },
+  {
+    "ext": ".sale"
+  },
+  {
+    "ext": ".samsung"
+  },
+  {
+    "ext": ".sap"
+  },
+  {
+    "ext": ".sarl"
+  },
+  {
+    "ext": ".saxo"
+  },
+  {
+    "ext": ".sb"
+  },
+  {
+    "ext": ".sc"
+  },
+  {
+    "ext": ".sca"
+  },
+  {
+    "ext": ".scb"
+  },
+  {
+    "ext": ".schmidt"
+  },
+  {
+    "ext": ".scholarships"
+  },
+  {
+    "ext": ".school"
+  },
+  {
+    "ext": ".schule"
+  },
+  {
+    "ext": ".schwarz"
+  },
+  {
+    "ext": ".science"
+  },
+  {
+    "ext": ".scot"
+  },
+  {
+    "ext": ".sd"
+  },
+  {
+    "ext": ".se"
+  },
+  {
+    "ext": ".services"
+  },
+  {
+    "ext": ".sew"
+  },
+  {
+    "ext": ".sexy"
+  },
+  {
+    "ext": ".sg"
+  },
+  {
+    "ext": ".sh"
+  },
+  {
+    "ext": ".shiksha"
+  },
+  {
+    "ext": ".shoes"
+  },
+  {
+    "ext": ".shriram"
+  },
+  {
+    "ext": ".si"
+  },
+  {
+    "ext": ".singles"
+  },
+  {
+    "ext": ".site"
+  },
+  {
+    "ext": ".sj"
+  },
+  {
+    "ext": ".sk"
+  },
+  {
+    "ext": ".sky"
+  },
+  {
+    "ext": ".sl"
+  },
+  {
+    "ext": ".sm"
+  },
+  {
+    "ext": ".sn"
+  },
+  {
+    "ext": ".so"
+  },
+  {
+    "ext": ".social"
+  },
+  {
+    "ext": ".software"
+  },
+  {
+    "ext": ".sohu"
+  },
+  {
+    "ext": ".solar"
+  },
+  {
+    "ext": ".solutions"
+  },
+  {
+    "ext": ".soy"
+  },
+  {
+    "ext": ".space"
+  },
+  {
+    "ext": ".spiegel"
+  },
+  {
+    "ext": ".spreadbetting"
+  },
+  {
+    "ext": ".sr"
+  },
+  {
+    "ext": ".ss"
+  },
+  {
+    "ext": ".st"
+  },
+  {
+    "ext": ".study"
+  },
+  {
+    "ext": ".style"
+  },
+  {
+    "ext": ".su"
+  },
+  {
+    "ext": ".sucks"
+  },
+  {
+    "ext": ".supplies"
+  },
+  {
+    "ext": ".supply"
+  },
+  {
+    "ext": ".support"
+  },
+  {
+    "ext": ".surf"
+  },
+  {
+    "ext": ".surgery"
+  },
+  {
+    "ext": ".suzuki"
+  },
+  {
+    "ext": ".sv"
+  },
+  {
+    "ext": ".sx"
+  },
+  {
+    "ext": ".sy"
+  },
+  {
+    "ext": ".sydney"
+  },
+  {
+    "ext": ".systems"
+  },
+  {
+    "ext": ".sz"
+  },
+  {
+    "ext": ".taipei"
+  },
+  {
+    "ext": ".tatar"
+  },
+  {
+    "ext": ".tattoo"
+  },
+  {
+    "ext": ".tax"
+  },
+  {
+    "ext": ".tc"
+  },
+  {
+    "ext": ".td"
+  },
+  {
+    "ext": ".tech"
+  },
+  {
+    "ext": ".technology"
+  },
+  {
+    "ext": ".tel"
+  },
+  {
+    "ext": ".temasek"
+  },
+  {
+    "ext": ".tennis"
+  },
+  {
+    "ext": ".tf"
+  },
+  {
+    "ext": ".tg"
+  },
+  {
+    "ext": ".th"
+  },
+  {
+    "ext": ".tickets"
+  },
+  {
+    "ext": ".tienda"
+  },
+  {
+    "ext": ".tips"
+  },
+  {
+    "ext": ".tires"
+  },
+  {
+    "ext": ".tirol"
+  },
+  {
+    "ext": ".tj"
+  },
+  {
+    "ext": ".tk"
+  },
+  {
+    "ext": ".tl"
+  },
+  {
+    "ext": ".tm"
+  },
+  {
+    "ext": ".tn"
+  },
+  {
+    "ext": ".to"
+  },
+  {
+    "ext": ".today"
+  },
+  {
+    "ext": ".tokyo"
+  },
+  {
+    "ext": ".tools"
+  },
+  {
+    "ext": ".top"
+  },
+  {
+    "ext": ".toshiba"
+  },
+  {
+    "ext": ".tours"
+  },
+  {
+    "ext": ".town"
+  },
+  {
+    "ext": ".toys"
+  },
+  {
+    "ext": ".tp"
+  },
+  {
+    "ext": ".tr"
+  },
+  {
+    "ext": ".trade"
+  },
+  {
+    "ext": ".trading"
+  },
+  {
+    "ext": ".training"
+  },
+  {
+    "ext": ".travel"
+  },
+  {
+    "ext": ".trust"
+  },
+  {
+    "ext": ".tt"
+  },
+  {
+    "ext": ".tui"
+  },
+  {
+    "ext": ".tv"
+  },
+  {
+    "ext": ".tw"
+  },
+  {
+    "ext": ".tz"
+  },
+  {
+    "ext": ".ua"
+  },
+  {
+    "ext": ".ug"
+  },
+  {
+    "ext": ".uk"
+  },
+  {
+    "ext": ".um"
+  },
+  {
+    "ext": ".university"
+  },
+  {
+    "ext": ".uno"
+  },
+  {
+    "ext": ".uol"
+  },
+  {
+    "ext": ".us"
+  },
+  {
+    "ext": ".uy"
+  },
+  {
+    "ext": ".uz"
+  },
+  {
+    "ext": ".va"
+  },
+  {
+    "ext": ".vacations"
+  },
+  {
+    "ext": ".vc"
+  },
+  {
+    "ext": ".ve"
+  },
+  {
+    "ext": ".vegas"
+  },
+  {
+    "ext": ".ventures"
+  },
+  {
+    "ext": ".versicherung"
+  },
+  {
+    "ext": ".vet"
+  },
+  {
+    "ext": ".vg"
+  },
+  {
+    "ext": ".vi"
+  },
+  {
+    "ext": ".viajes"
+  },
+  {
+    "ext": ".video"
+  },
+  {
+    "ext": ".villas"
+  },
+  {
+    "ext": ".vision"
+  },
+  {
+    "ext": ".vlaanderen"
+  },
+  {
+    "ext": ".vn"
+  },
+  {
+    "ext": ".vodka"
+  },
+  {
+    "ext": ".vote"
+  },
+  {
+    "ext": ".voting"
+  },
+  {
+    "ext": ".voto"
+  },
+  {
+    "ext": ".voyage"
+  },
+  {
+    "ext": ".vu"
+  },
+  {
+    "ext": ".wales"
+  },
+  {
+    "ext": ".wang"
+  },
+  {
+    "ext": ".watch"
+  },
+  {
+    "ext": ".webcam"
+  },
+  {
+    "ext": ".website"
+  },
+  {
+    "ext": ".wed"
+  },
+  {
+    "ext": ".wedding"
+  },
+  {
+    "ext": ".wf"
+  },
+  {
+    "ext": ".whoswho"
+  },
+  {
+    "ext": ".wien"
+  },
+  {
+    "ext": ".wiki"
+  },
+  {
+    "ext": ".williamhill"
+  },
+  {
+    "ext": ".win"
+  },
+  {
+    "ext": ".wme"
+  },
+  {
+    "ext": ".work"
+  },
+  {
+    "ext": ".works"
+  },
+  {
+    "ext": ".world"
+  },
+  {
+    "ext": ".ws"
+  },
+  {
+    "ext": ".wtc"
+  },
+  {
+    "ext": ".wtf"
+  },
+  {
+    "ext": ".xin"
+  },
+  {
+    "ext": ".测试"
+  },
+  {
+    "ext": ".परीक्षा"
+  },
+  {
+    "ext": ".佛山"
+  },
+  {
+    "ext": ".慈善"
+  },
+  {
+    "ext": ".集团"
+  },
+  {
+    "ext": ".在线"
+  },
+  {
+    "ext": ".한국"
+  },
+  {
+    "ext": ".ভারত"
+  },
+  {
+    "ext": ".八卦"
+  },
+  {
+    "ext": ".موقع"
+  },
+  {
+    "ext": ".বাংলা"
+  },
+  {
+    "ext": ".公益"
+  },
+  {
+    "ext": ".公司"
+  },
+  {
+    "ext": ".移动"
+  },
+  {
+    "ext": ".我爱你"
+  },
+  {
+    "ext": ".москва"
+  },
+  {
+    "ext": ".испытание"
+  },
+  {
+    "ext": ".қаз"
+  },
+  {
+    "ext": ".онлайн"
+  },
+  {
+    "ext": ".сайт"
+  },
+  {
+    "ext": ".срб"
+  },
+  {
+    "ext": ".бел"
+  },
+  {
+    "ext": ".时尚"
+  },
+  {
+    "ext": ".테스트"
+  },
+  {
+    "ext": ".淡马锡"
+  },
+  {
+    "ext": ".орг"
+  },
+  {
+    "ext": ".삼성"
+  },
+  {
+    "ext": ".சிங்கப்பூர்"
+  },
+  {
+    "ext": ".商标"
+  },
+  {
+    "ext": ".商店"
+  },
+  {
+    "ext": ".商城"
+  },
+  {
+    "ext": ".дети"
+  },
+  {
+    "ext": ".мкд"
+  },
+  {
+    "ext": ".טעסט"
+  },
+  {
+    "ext": ".中文网"
+  },
+  {
+    "ext": ".中信"
+  },
+  {
+    "ext": ".中国"
+  },
+  {
+    "ext": ".中國"
+  },
+  {
+    "ext": ".谷歌"
+  },
+  {
+    "ext": ".భారత్"
+  },
+  {
+    "ext": ".ලංකා"
+  },
+  {
+    "ext": ".測試"
+  },
+  {
+    "ext": ".ભારત"
+  },
+  {
+    "ext": ".भारत"
+  },
+  {
+    "ext": ".آزمایشی"
+  },
+  {
+    "ext": ".பரிட்சை"
+  },
+  {
+    "ext": ".网店"
+  },
+  {
+    "ext": ".संगठन"
+  },
+  {
+    "ext": ".网络"
+  },
+  {
+    "ext": ".укр"
+  },
+  {
+    "ext": ".香港"
+  },
+  {
+    "ext": ".δοκιμή"
+  },
+  {
+    "ext": ".飞利浦"
+  },
+  {
+    "ext": ".إختبار"
+  },
+  {
+    "ext": ".台湾"
+  },
+  {
+    "ext": ".台灣"
+  },
+  {
+    "ext": ".手机"
+  },
+  {
+    "ext": ".мон"
+  },
+  {
+    "ext": ".الجزائر"
+  },
+  {
+    "ext": ".عمان"
+  },
+  {
+    "ext": ".ایران"
+  },
+  {
+    "ext": ".امارات"
+  },
+  {
+    "ext": ".بازار"
+  },
+  {
+    "ext": ".پاکستان"
+  },
+  {
+    "ext": ".الاردن"
+  },
+  {
+    "ext": ".بھارت"
+  },
+  {
+    "ext": ".المغرب"
+  },
+  {
+    "ext": ".السعودية"
+  },
+  {
+    "ext": ".سودان"
+  },
+  {
+    "ext": ".عراق"
+  },
+  {
+    "ext": ".مليسيا"
+  },
+  {
+    "ext": ".政府"
+  },
+  {
+    "ext": ".شبكة"
+  },
+  {
+    "ext": ".გე"
+  },
+  {
+    "ext": ".机构"
+  },
+  {
+    "ext": ".组织机构"
+  },
+  {
+    "ext": ".健康"
+  },
+  {
+    "ext": ".ไทย"
+  },
+  {
+    "ext": ".سورية"
+  },
+  {
+    "ext": ".рус"
+  },
+  {
+    "ext": ".рф"
+  },
+  {
+    "ext": ".تونس"
+  },
+  {
+    "ext": ".みんな"
+  },
+  {
+    "ext": ".グーグル"
+  },
+  {
+    "ext": ".世界"
+  },
+  {
+    "ext": ".ਭਾਰਤ"
+  },
+  {
+    "ext": ".网址"
+  },
+  {
+    "ext": ".游戏"
+  },
+  {
+    "ext": ".vermögensberater"
+  },
+  {
+    "ext": ".vermögensberatung"
+  },
+  {
+    "ext": ".企业"
+  },
+  {
+    "ext": ".信息"
+  },
+  {
+    "ext": ".مصر"
+  },
+  {
+    "ext": ".قطر"
+  },
+  {
+    "ext": ".广东"
+  },
+  {
+    "ext": ".இலங்கை"
+  },
+  {
+    "ext": ".இந்தியா"
+  },
+  {
+    "ext": ".հայ"
+  },
+  {
+    "ext": ".新加坡"
+  },
+  {
+    "ext": ".فلسطين"
+  },
+  {
+    "ext": ".テスト"
+  },
+  {
+    "ext": ".政务"
+  },
+  {
+    "ext": ".xxx"
+  },
+  {
+    "ext": ".xyz"
+  },
+  {
+    "ext": ".yachts"
+  },
+  {
+    "ext": ".yandex"
+  },
+  {
+    "ext": ".ye"
+  },
+  {
+    "ext": ".yodobashi"
+  },
+  {
+    "ext": ".yoga"
+  },
+  {
+    "ext": ".yokohama"
+  },
+  {
+    "ext": ".youtube"
+  },
+  {
+    "ext": ".yt"
+  },
+  {
+    "ext": ".za"
+  },
+  {
+    "ext": ".zip"
+  },
+  {
+    "ext": ".zm"
+  },
+  {
+    "ext": ".zone"
+  },
+  {
+    "ext": ".zuerich"
+  },
+  {
+    "ext": ".zw"
+  }
+]
