@@ -50,7 +50,7 @@ class LSController extends Controller
                     $isUnique =  $this->isCodeUnique($newKey);
                 }
                 if($isUnique && $this->isUrlValid($data[0])) {
-                    $shorturl = $host.'/ls/'.$newKey;
+                    $shorturl = $host.'/'.$newKey;
                     try {
                         $query = DB::table('links')->insert(
                             [
@@ -64,7 +64,7 @@ class LSController extends Controller
                     }
                 }
             } else {
-                $shorturl = $host.'/ls/'.$this->doesUrlExist($data[0])['result'][0]['shorturlkey'];
+                $shorturl = $host.'/'.$this->doesUrlExist($data[0])['result'][0]['shorturlkey'];
                 return response()->json($shorturl);
             }
         }
@@ -126,7 +126,7 @@ class LSController extends Controller
     public function redirectLink($code) {
         // var_dump($code); exit();
         if(empty($code)) {
-            return redirect('/ls');
+            return redirect('/');
         } else {
             try {
             $query = DB::table('links')
