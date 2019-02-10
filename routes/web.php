@@ -14,7 +14,7 @@
 // homepage
 Route::get('/', 'LSController@index');
 
-Route::post('ls/getlink', 'LSController@getLink');
+Route::post('/getlink', 'LSController@getLink');
 
-Route::get('ls/{code}', 'LSController@redirectLink');
+Route::get('/{code}', 'LSController@redirectLink');
 
